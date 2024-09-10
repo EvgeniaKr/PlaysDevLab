@@ -1,3 +1,0 @@
-Commit test
-Xnew
-bash
