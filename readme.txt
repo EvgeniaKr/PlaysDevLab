@@ -1,4 +1,3 @@
 Commit test
-test
-new
+Xnew
 bash
